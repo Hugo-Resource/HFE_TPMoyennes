@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TPMoyennes
+namespace HNI_TPmoyennes
 {
     // Classes fournies par HNI Institut
     class Note
