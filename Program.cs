@@ -55,6 +55,3 @@ namespace HNI_TPmoyennes
         }
     }
 }
-
-
-
